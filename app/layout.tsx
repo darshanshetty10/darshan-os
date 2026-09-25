@@ -21,6 +21,10 @@ const siteUrl =
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
 
+  verification: {
+    google: 'EiRTJylK6vVdRuldV23eINiuOa9OxRtFaZDzWTM4kvk',
+  },
+
   title: {
     default: 'Darshan Shetty — Product Manager | E-Commerce · Hyperlocal · AI',
     template: '%s | Darshan Shetty',
